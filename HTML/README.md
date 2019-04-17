@@ -59,7 +59,7 @@ Additional values that can adjust the behaviour of the tag. This is like adding 
 
 This button tag as two attributes called id and class.The first attribute is the id attribute. The value of the id attribute can be anything you want it to be,though it can't have any spaces in it. The second attribute is the class attribute. The class attribute can take multiple values, which can be whatever you want them to be. Note: all Attribute are added to the opening tag only.
 
-Global Attribute
+Global Attributes
 <ol>
   <li><strong>id :</strong> For Javascript and Cascading style sheets(CSS). No two tag on a page can have the same id value</li>
   <li><strong>class :</strong> For Javascript and Cascading style sheets(CSS). Multiple tag can have the same class value on a page.</li>

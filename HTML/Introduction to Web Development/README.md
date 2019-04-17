@@ -12,3 +12,7 @@ Let’s look at web browsing.
 </ul>
 
 In that moment, your computer starts talking to another computer called a server that is usually miles away using a language called HTTP(Hyper text transfer protocol). It tells the computer(google’s server) that you want all of the HTML code for the google login page.
+
+### Additional Resources
+---
+[The Internet: HTTP & HTML](https://www.youtube.com/watch?v=kBXQZMmiA4s)
