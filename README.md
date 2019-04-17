@@ -21,8 +21,6 @@ The Teen code curriculum is designed to guide last year secondary school student
 │   │   ├── HTML Tags and Structure
 │   │   │   └── README.md
 │   │   └── README.md
-│   ├── Introduction to HTML
-│   │   └── README.md
 │   ├── Introduction to Web Development
 │   │   └── README.md
 │   └── README.md
@@ -31,5 +29,5 @@ The Teen code curriculum is designed to guide last year secondary school student
 ├── LICENSE
 ├── NodeJS
 │   └── README.md
-└── README.md                     
+└── README.md
  ```
