@@ -82,7 +82,7 @@
 ```
 
 <ul>
-  <li></li>
+  <li>Boldens text</li>
 </ul>
 
 ```html
@@ -132,7 +132,7 @@
 </ul>
 
 ### Ordered and Unordered lists.
-An unordered list starts with the **<ul>** tag. A ordered list starts with the **<ol>** tag Each list item starts with the **<li>** tag.
+An unordered list starts with the **ul** tag. A ordered list starts with the **ol** tag Each list item starts with the **li** tag.
 
 *Example of unordered list:*
 The list items will be marked with bullets by default.
