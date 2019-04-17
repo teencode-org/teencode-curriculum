@@ -2,7 +2,7 @@
 
 Before we explain html, Let’s talk briefly talk on how the internet works. Have you ever thought about this? How does the computers all around the world communicate with each other?
 
-*Facilitator:* Have the students try this out on a web browser and explain what is going on in the background.
+**Facilitator:** Have the students try this out on a web browser and explain what is going on in the background.
 
 Let’s look at web browsing. 
 <ul>

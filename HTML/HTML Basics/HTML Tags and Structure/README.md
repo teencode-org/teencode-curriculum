@@ -9,6 +9,7 @@
   <li>Attributes : Global</li>
 </ul>
 
+
 ```html
 <p></p>
 ```
@@ -20,6 +21,7 @@
   <li>Allow only Global Attributes</li>
 </ul>
 
+
 ```html
 <div></div>
 ```
@@ -29,6 +31,7 @@
   <li>Block Level</li>
   <li>This is used as a block container and also used to group together other tags</li>
 </ul>
+
 
 ```html
 <sub></sub>
@@ -129,7 +132,7 @@
 </ul>
 
 ### Ordered and Unordered lists.
-An unordered list starts with the **<ul>** tag. A ordered list starts with the <ol> tag Each list item starts with the **<li>** tag.
+An unordered list starts with the **<ul>** tag. A ordered list starts with the **<ol>** tag Each list item starts with the **<li>** tag.
 
 *Example of unordered list:*
 The list items will be marked with bullets by default.
@@ -165,8 +168,8 @@ The list items will be marked with numbers by default:
 **Result**
 ```
 <ol>
-  		<li>Coffee</li>
-  		<li>Tea</li>
-  		<li>Milk</li>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
 </ol>
 ```

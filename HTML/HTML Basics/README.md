@@ -18,12 +18,12 @@ The body contains the actual content of the page.
 <!DOCTYPE html>
 <html>   
  	<head>
-  		<meta charset="utf-8">
-  		<title>Title of your page goes here</title>
-	 </head>
+		<meta charset="utf-8">
+		<title>Title of your page goes here</title>
+	</head>
  	<body>
-  		Bulk of your content here.
-	 </body>
+		Bulk of your content here.
+	</body>
 </html>
 ```
 
