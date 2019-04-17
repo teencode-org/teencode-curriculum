@@ -145,7 +145,7 @@ The list items will be marked with bullets by default.
 ```
 
 #### Result
------
+--
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
@@ -164,7 +164,7 @@ The list items will be marked with numbers by default:
 ```
 
 #### Result
------
+--
 <ol>
   <li>Coffee</li>
   <li>Tea</li>
