@@ -144,15 +144,13 @@ The list items will be marked with bullets by default.
 </ul>
 ```
 
-**Result**
-
-```
+Result
+-----
 <ul>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ul>
-```
 
 *Example of ordered list:*
 The list items will be marked with numbers by default:
@@ -165,11 +163,10 @@ The list items will be marked with numbers by default:
 </ol>
 ```
 
-**Result**
-```
+Result
+-----
 <ol>
   <li>Coffee</li>
   <li>Tea</li>
   <li>Milk</li>
 </ol>
-```
