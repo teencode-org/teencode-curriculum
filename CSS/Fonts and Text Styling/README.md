@@ -20,8 +20,7 @@ In HTML, a color can be specified by using a color name, an **RGB** value, or a 
   </li>
 </ul>
 
-![Colors](/images/colors.png "Colors")
-
+![Colors](../images/colors.png "Colors")
 
 <ul>
   <li>By an RGB value
@@ -44,8 +43,7 @@ Every computer comes loaded with several fonts.  If you don’t use the font sty
 
 Here is a list of fonts that are a safe bet:
 
-![Font Family](/images/ofnt-family.png "Font Family")
-
+![Font Family](../images/font-family.png "Font Family")
 
 
 ### Formating Text to Different Font Sizes
@@ -64,7 +62,9 @@ The HTML style attribute has the following syntax:
 <h1 style=”color:red;”>This headline</h1>
 ```
 
+```
 The line of code above is tells the browser to make the word ”This headline” a first level headline (<h1>, the largest) and in red.
+```
 
 The style attribute to select a font I want, like Arial. Here’s the code:
 

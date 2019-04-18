@@ -156,8 +156,7 @@ A demonstration of the CSS font properties in an example:
 ```
 
 **Result**
-
-![Font Variant Example](/images/font-variant-example.png "Font Variant Example")
+![Font Variant Example](/images/font-variant-example.png)
 
 ### CSS Border
 <p>The CSS <strong style="color: red;">border</strong> properties allow you to specify the style, width, and color of an element's border.</p>
