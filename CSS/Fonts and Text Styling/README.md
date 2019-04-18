@@ -20,10 +20,8 @@ In HTML, a color can be specified by using a color name, an **RGB** value, or a 
   </li>
 </ul>
 
-RED
-YELLOW
-BLUE
-GREEN
+![Colors](/images/colors.png "Colors")
+
 
 <ul>
   <li>By an RGB value
@@ -46,34 +44,9 @@ Every computer comes loaded with several fonts.  If you don’t use the font sty
 
 Here is a list of fonts that are a safe bet:
 
-<ul>
-  <li>Serif (decorated with marks)
-    <ul>
-      <li>Times New Roman, Times</li>
-      <li style="color: red;">Georgia</li>
-    </ul>
-  </li>
-</ul>
+![Font Family](/images/ofnt-family.png "Font Family")
 
-<ul>
-  <li>Sans-Serif (plain type, no decorations)
-    <ul>
-      <li>Arial</li>
-      <li style="color: red;">Arial Black</li>
-      <li style="color: red;">Verdana</li>
-      <li>Tahoma</li>
-    </ul>
-  </li>
-</ul>
 
-<ul>
-  <li>Monospace (like typewriter type)
-    <ul>
-      <li>Courier</li>
-      <li style="color: red;">Courier New</li>
-    </ul>
-  </li>
-</ul>
 
 ### Formating Text to Different Font Sizes
 Font sizes in HTML are commonly referenced in **pixels(px)**, **percent(%)** or **point(pt)**. 

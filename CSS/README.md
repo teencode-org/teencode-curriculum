@@ -9,7 +9,7 @@ CSS stands for Cascading Style Sheets. It describes how HTML elements are to be 
 ```
 
 * Internal
-  > An internal CSS is used to define a style for a single HTML page. You list all your formatting by using the <style> element and placing it in the <head> section of the code.
+  > An internal CSS is used to define a style for a single HTML page. You list all your formatting by using the **style** element and placing it in the **head** section of the code.
   Example:
 
 ```html
@@ -30,7 +30,7 @@ CSS stands for Cascading Style Sheets. It describes how HTML elements are to be 
 ```
 
 * External
-  > An external style sheet is used to define the style for many HTML pages. With an external style sheet, you can change the look of an entire web site, by changing one file. To use an external style sheet, add a link to it in the <head> section of the HTML page.
+  > An external style sheet is used to define the style for many HTML pages. With an external style sheet, you can change the look of an entire web site, by changing one file. To use an external style sheet, add a **link** to it in the **head** section of the HTML page.
   Example
 
 ```html
@@ -60,10 +60,11 @@ p {
 }
 ```
 
+
 ### CSS Fonts
 The CSS font properties define the font family, font size, and the style of a text.
 
-* Font Family
+* **Font Family**
 > The font family of a text is set with the font-family property. It should hold several font names as a "fallback" system. If the browser does not support the first font, it tries the next font, and so on. When specifying a font, start with the font you want and end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available. 
 Example:
 
@@ -73,7 +74,7 @@ p {
 }
 ```
 
-* Font Style
+* **Font Style**
 > The font-style property is mostly used to specify italic text. This property has three values:
 
 <ul>
@@ -96,10 +97,10 @@ p.oblique {
 }
 ```
 
-* Font Size
-<p>The <strong style="color: red;">font-size</strong> property sets the size of the text. The font-size value can be an absolute, or relative size. An absolute size does not allow a user to change the text size in all browsers but a relative size does.</p>
+* **Font Size**
+> <p>The <strong style="color: red">font-size</strong> property sets the size of the text. The font-size value can be an absolute, or relative size. An absolute size does not allow a user to change the text size in all browsers but a relative size does.</p>
 
-**Set Font Size With Pixels**
+##### Set Font Size With Pixels
 Setting the text size with pixels gives you full control over the text size:
 
 ```css
@@ -108,7 +109,7 @@ h1 {
 }
 ```
 
-* Font Weight
+* **Font Weight**
 > The font-weight property specifies the weight of a font:
 
 ```css
@@ -121,7 +122,7 @@ p.thick {
 ```
 
 * Font Variant
-<p>The <strong style="color: red;">font-variant</strong> property specifies whether or not a text should be displayed in a small-caps font. In a small-caps font, all lowercase letters are converted to uppercase letters. However, the converted uppercase letters appears in a smaller font size than the original uppercase letters in the text.</p>
+> <p>The <strong style="color: red">font-variant</strong> property specifies whether or not a text should be displayed in a small-caps font. In a small-caps font, all lowercase letters are converted to uppercase letters. However, the converted uppercase letters appears in a smaller font size than the original uppercase letters in the text.</p>
 
 ```css
 p.normal {
@@ -156,14 +157,13 @@ A demonstration of the CSS font properties in an example:
 
 **Result**
 
-<p style="font: 15px arial, sans-serif;">I love web design </p>
-<p style="font:italic bold 12px/30px Georgia, serif;">This is awesome</p>
+![Font Variant Example](/images/font-variant-example.png "Font Variant Example")
 
 ### CSS Border
 <p>The CSS <strong style="color: red;">border</strong> properties allow you to specify the style, width, and color of an element's border.</p>
 
-* Border Style
-<p>The <strong style="color:red;">border-style</strong> property specifies what kind of border to display.</p>
+* **Border Style**
+> <p>The <strong style="color:red">border-style</strong> property specifies what kind of border to display.</p>
 
 ```css
 p.dotted { border-style: dotted; }
@@ -180,20 +180,11 @@ p.mix { border-style: dotted dashed solid double; }
 ```
 
 **Result**
-<p style="border-style: dotted;">A dotted border</p>
-<p style="border-style: dotted;">A dashed border</p>
-<p style="border-style: dotted;">A solid border</p>
-<p style="border-style: dotted;">A double border</p>
-<p style="border-style: dotted;">A groove border</p>
-<p style="border-style: dotted;">A ridge border</p>
-<p style="border-style: dotted;">A inset border</p>
-<p style="border-style: dotted;">A outset border</p>
-<p style="border-style: dotted;">No border</p>
-<p style="border-style: dotted;">A hidden border</p>
-<p style="border-style: dotted;">A mixed border</p>
+![CSS Border Styles](/images/border-styles.png "CSS Border Styles")
 
-### Border Width
-<p>The <strong style="color: red;">border-width</strong> property specifies the width of the four borders. The border-width property can have from one to four values (for the top border, right border, bottom border, and the left border).
+
+* **Border Width**
+> <p>The <strong style="color: red;">border-width</strong> property specifies the width of the four borders. The border-width property can have from one to four values (for the top border, right border, bottom border, and the left border).
 The width can be set as a specific size (in px, pt, cm, em, etc) or by using one of the three pre-defined values: thin, medium, or thick.
 </p>
 Example:
@@ -205,8 +196,8 @@ p {
 }
 ```
 
-### Border Color
-<p>The border-color property is used to set the color of the borders. The color can be set by:</p>
+* **Border Color**
+> <p>The border-color property is used to set the color of the borders. The color can be set by:</p>
 
 <ul>
   <li>name - specify a color name, like "red"</li>
@@ -214,6 +205,7 @@ p {
   <li>RGB - specify a RGB value, like "rgb(255,0,0)"</li>
   <li>transparent</li>
 </ul>
+
 
 ### CSS Padding
 The CSS padding property defines a padding (space) between the text and the border. The padding clears an area around the content (inside the border) of an element. With CSS, you have full control over the padding. There are CSS properties for setting the padding for each side of an element (top, right, bottom, and left).
