@@ -22,7 +22,7 @@ Attributes
 ### Styling Images with CSS
 
 **Rounded Image**
-![Rounded Image](../images/rounded-image.png)
+![Rounded Image](../../images/rounded-image.png)
 
 ```css
 img {
@@ -31,7 +31,7 @@ img {
 ```
 
 To make your image a perfect circle - make the border radius 50%.
-![Circle Image](../images/circle-image.png)
+![Circle Image](../../images/circle-image.png)
 
 ```css
 img {
@@ -40,7 +40,7 @@ img {
 ```
 
 * Thumbnail image
-![Thumbnail Image](../images/thumbnail-image.png)
+![Thumbnail Image](../../images/thumbnail-image.png)
 
 Use the border property to create thumbnail images.
 
@@ -69,7 +69,7 @@ margin-right: auto;
 ```
 
 ### Transparent Images
-![Transparent Images](../images/transparent-images.png)
+![Transparent Images](../../images/transparent-images.png)
 
 The opacity property can take a value from 0.0 - 1.0. The lower value, the more transparent:
 
@@ -122,7 +122,7 @@ li a {
 ### Example: Vertical Navigation Bar
 Create a basic vertical navigation bar with a gray background color and change the background color of the links when the user moves the mouse over them:
 
-![Verical Navbar](../images/vertical-navbar.png)
+![Verical Navbar](../../images/vertical-navbar.png)
 
 ```css
 ul {
@@ -211,7 +211,7 @@ a {
 ### Example: Horizontal Navigation Bar
 Create a basic horizontal navigation bar with a dark background color and change the background color of the links when the user moves the mouse over them:
 
-![Horizontal Navbar](../images/horizontal-navbar.png)
+![Horizontal Navbar](../../images/horizontal-navbar.png)
 
 ```css
 ul {
