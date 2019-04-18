@@ -5,10 +5,10 @@ After any length of time on the Internet, you’ll notice that a web page is mad
 
 | Element                  | Description                        |
 | -------                  | -----------                        |
+| ```html                  | Defines bold text                  |
 | <b>...</b>               |                                    |
 | ```                      |                                    |
 | ```html                  | Defines italic text                |
-| ```html                  | Defines bold text                  |
 | <i>...</i>               |                                    |
 | ```                      |                                    |
 | ```html                  | Begin a new paragraph              |
