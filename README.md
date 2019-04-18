@@ -13,7 +13,23 @@ The Teen code curriculum is designed to guide last year secondary school student
 
 ```         
 ├── CSS
-│   └── README.md
+│   ├── Fonts and Text Styling
+│   │   └── README.md
+│   ├── Projects
+│   │   └── Personal Website
+│   │       └── README.md
+│   ├── README.md
+│   └── images
+│       ├── border-styles.png
+│       ├── circle-image.png
+│       ├── colors.png
+│       ├── font-family.png
+│       ├── font-variant-example.png
+│       ├── horizontal-navbar.png
+│       ├── rounded-image.png
+│       ├── thumbnail-image.png
+│       ├── transparent-images.png
+│       └── vertical-navbar.png
 ├── Database
 │   └── README.md
 ├── HTML
