@@ -1,15 +1,15 @@
 ### Fonts and Text Styling
 After any length of time on the Internet, you’ll notice that a web page is made up of more than just plain words on a screen. There are headlines, paragraphs, graphics, colors and much more. It’s a lively place to be. HTML defines special elements for defining text with a special meaning. Formatting elements are designed to display special types of text. Examples of formatting elements are:
 
-| Element                  | Description                        |
-| -------                  | -----------                        |
-| <b>...</b>               | Defines bold text                  |
-| <i>...</i>               | Defines italic text                |
-| <p>...</p>               | Begin a new paragraph              |
-| <mark>...</mark>         | Defines marked/highlighted text    |
-|                          | It is called the headline tag.     |
-| <h1>…</h1> to <h6>…</h6> | It creates a bold copy             |
-| <sub>...</sub>           |  Defines subscripted text          |
+| Element                       | Description                        |
+| -------                       | -----------                        |
+| `<b>...</b>`                  | Defines bold text                  |
+| `<i>...</i>`                  | Defines italic text                |
+| `<p>...</p>`                  | Begin a new paragraph              |
+| `<mark>...</mark>`            | Defines marked/highlighted text    |
+|                               | It is called the headline tag.     |
+| `<h1>…</h1> to <h6>…</h6>`    | It creates a bold copy             |
+| `<sub>...</sub>`              |  Defines subscripted text          |
 
 ### Formating Text to different colors
 In HTML, a color can be specified by using a color name, an **RGB** value, or a **HEX** value.
