@@ -19,7 +19,7 @@ The Teen code curriculum is designed to guide last year secondary school student
 
 ### In Session Exercises:
 
-| Week | Topic | Content |
+<!-- | Week | Topic | Content |
 |------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | HTML | Build a simple static profile web page |
 | 2 | CSS/HTML | Include css properties to an HTML file |
@@ -36,7 +36,15 @@ The Teen code curriculum is designed to guide last year secondary school student
 `
 
 - Write a JavaScript function to create a Person object, and store in an array of students.
-- Write JavaScript event handlers for an HTML/css file |
+- Write JavaScript event handlers for an HTML/css file | -->
+
+<table>
+  <thead>
+    <th>Week</th>
+    <th>Topic</th>
+    <th>Content</th>
+  </thead>
+</table>
 
 
 
