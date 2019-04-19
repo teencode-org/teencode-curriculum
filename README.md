@@ -19,25 +19,6 @@ The Teen code curriculum is designed to guide last year secondary school student
 
 ### In Session Exercises:
 
-<!-- | Week | Topic | Content |
-|------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1 | HTML | Build a simple static profile web page |
-| 2 | CSS/HTML | Include css properties to an HTML file |
-| 3 | JavaScript | - Write a JavaScript function that reverse a number.
-`
-- Example x = 32243;
-- Expected Output : 34223
-`
-
-- Write a JavaScript function that returns a passed string with letters in alphabetical order.
-`
-- Example string : 'webmaster'   
-- Expected Output : 'abeemrstw'
-`
-
-- Write a JavaScript function to create a Person object, and store in an array of students.
-- Write JavaScript event handlers for an HTML/css file | -->
-
 <table>
   <thead>
     <th>Week</th>
@@ -84,11 +65,32 @@ The Teen code curriculum is designed to guide last year secondary school student
 
 
 ### Scoring Rubric
-| Exceeds Expectations (3 points) | Meets Expectations (2 points)  | Below Expectations (1 point) | Did not attempt (0 point) |
-| ---                  | ---                | ---                | ---             |
-| Output is next-to-flawless-- very little room for improvement in any details and shows careful thought and effort. | Output shows effort and attention to detail, functions well, and is complete. There remain a few areas where it could communicate or function more efficiently.  | Learner has some output to show but did not meet all requirements.
 
-Output is completed but there is much room for improvement. For example, the learner did not adhere to concepts previously learnt eg coding best practises, proper use of version control | Did not do. No output is provided |
+<table>
+  <thead>
+    <th>Exceeds Expectations (3 points)</th>
+    <th>Meets Expectations (2 points)</th>
+    <th>Below Expectations (1 point)</th>
+    <th>Did not attempt (0 point</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Output is next-to-flawless-- very little room for improvement in any details and shows careful thought and effort.</td>
+    </tr>
+    <tr>
+      <td>Output shows effort and attention to detail, functions well, and is complete. There remain a few areas where it could communicate or function more efficiently. </td>
+    </tr>
+    <tr>
+      <td>
+        <p>Learner has some output to show but did not meet all requirements.</p>
+        <p>Output is completed but there is much room for improvement. For example, the learner did not adhere to concepts previously learnt eg coding best practises, proper use of version control</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Did not do. No output is provided</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -116,10 +118,28 @@ You are required to use HTML only for this
 
   - Criterion:
 
-
-  | Skill | Does Not Meet Expectation | Meets Expectation | Exceeds Expectation |
-  | ---   | ---                       | ---               | ---                 |
-  | HTML  | Failed to complete all static pages. | Completes all static pages.  | Shows creativity with use of proper colours coordination, and pages are well designed; looking modern and attractive. |
+<table>
+  <thead>
+    <th>Skill</th>
+    <th>Does Not Meet Expectation</th>
+    <th>Meets Expectation</th>
+    <th>Meets Expectation</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>HTML</td>
+    </tr>
+    <tr>
+      <td>Failed to complete all static pages.</td>
+    </tr>
+    <tr>
+      <td>Completes all static pages.</td>
+    </tr>
+    <tr>
+      <td>Shows creativity with use of proper colours coordination, and pages are well designed; looking modern and attractive.</td>
+    </tr>
+  </tbody>
+</table>
 
 * Week 2 - Incorporate CSS into static web pages
 You are required to use CSS and HTML for this
@@ -132,10 +152,29 @@ You are required to use CSS and HTML for this
     - Animate your design (optional)
   - Criterion:
 
-  
-  | Skill       | Does Not Meet Expectation | Meets Expectation | Exceeds Expectation |
-  | ---         | ---                       | ---               | ---                 |
-  | CSS / HTML  | Failed to add at least 4 of the suggested CSS properties. | Successfully adds all suggested CSS design appropriately with corresponding HTML. | Shows creativity with use of proper colours coordination, creates external link for css properties. Animates HTML design. |
+
+<table>
+  <thead>
+    <th>Skill</th>
+    <th>Does Not Meet Expectation</th>
+    <th>Meets Expectation</th>
+    <th>Meets Expectation</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>CSS / HTML</td>
+    </tr>
+    <tr>
+      <td>Failed to add at least 4 of the suggested CSS properties.</td>
+    </tr>
+    <tr>
+      <td>Successfully adds all suggested CSS design appropriately with corresponding HTML. </td>
+    </tr>
+    <tr>
+      <td>Shows creativity with use of proper colours coordination, creates external link for css properties. Animates HTML design.</td>
+    </tr>
+  </tbody>
+</table>
 
 * Week 3 - Implement Javascript for functionality
 You are required to use JavaScript and JQuery for this
@@ -147,9 +186,29 @@ You are required to use JavaScript and JQuery for this
     - Implement JQuery to listen to DOM elements and call the appropriate JavaScript function.
   - Criterion:
 
-  | Skill       | Does Not Meet Expectation | Meets Expectation | Exceeds Expectation |
-  | ---         | ---                       | ---               | ---                 |
-  | JQuery/ JavaScript  | Failed to implement JavaScript functionalities. | Successfully implements JS functionalities and use JQuery to listen for events appropriately. | Shows problem solving skills, with simplified JS solutions, code syntax is neat and well written. |
+
+<table>
+  <thead>
+    <th>Skill</th>
+    <th>Does Not Meet Expectation</th>
+    <th>Meets Expectation</th>
+    <th>Meets Expectation</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>JQuery/ JavaScript </td>
+    </tr>
+    <tr>
+      <td>Failed to implement JavaScript functionalities. </td>
+    </tr>
+    <tr>
+      <td>Successfully implements JS functionalities and use JQuery to listen for events appropriately.>Completes all static pages.</td>
+    </tr>
+    <tr>
+      <td>Shows problem solving skills, with simplified JS solutions, code syntax is neat and well written.</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -166,16 +225,58 @@ You are required to use JavaScript and JQuery for this
 These sessions are to be taken at the beginning of each Saturday session and should run no longer than 30 mins with the exception of week 5. (20 minutes for explanation and 10 minutes for questions). Week 5 would run for maximum 45 minutes; 30 minutes for explanation and 15 minutes for questions.
 Facilitators taking these sessions are required to research before hand in order to be well prepared.
 
-| Week | Values            | Content           | Examples            |
-| ---  | ---               | ---               | ---                 |
-| 1    | Excellence        | Quality - In order to achieve excellence, we have to ensure the products we build are of good quality  | * Everyday products such as toothpaste. 
-                             * Artists producing music with meanings e.g. Michael Jackson, heal the world|
-|      |                   | Quantity - Being able to deliver n number of tasks with limited time is also a good way to strive for excellence | *                                |
-| Passion | Initiative - with passion we can stay motivated to be committed to the work we do, and this is turn can aid being initiative when necessary, especially when problem solving |  - Being committed to solving a math problem can lead you to take a different approach to that problem |
-| Integrity | Professionalism - Part of being a good developer is being able to take responsibility for your resources, and not claim ownership of another developer’s work. |     |
-| Collaboration | Communication - communication is very important, being able to communicate your progress as you work with your teammates and everyone invested in the product you are building  |
-
-Integration - A big part of being a developer is knowing how to work well and integrate in a team, regardless of how different opinions, backgrounds and beliefs may be.  | |
+<table>
+  <thead>
+    <th>Week</th>
+    <th>Values</th>
+    <th>Content</th>
+    <th>Examples</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Excellence</td>
+      <td>Quality - In order to achieve excellence, we have to ensure the products we build are of good quality</td>
+      <td>
+        <ul>
+          <li>Everyday products such as toothpaste.</li>
+          <li>Artists producing music with meanings e.g. Michael Jackson, heal the world</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Excellence</td>
+      <td>Quantity - Being able to deliver n number of tasks with limited time is also a good way to strive for excellence</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Passion</td>
+      <td>Initiative - with passion we can stay motivated to be committed to the work we do, and this is turn can aid being initiative when necessary, especially when problem solving</td>
+      <td>
+        <ul>
+          <li>Being committed to solving a math problem can lead you to take a different approach to that problem</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>4</td>
+      <td>Integrity</td>
+      <td>Professionalism - Part of being a good developer is being able to take responsibility for your resources, and not claim ownership of another developer’s work. </td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>5</td>
+      <td>Collaboration</td>
+      <td>
+        <p>Communication - communication is very important, being able to communicate your progress as you work with your teammates and everyone invested in the product you are building</p>
+        <p>Integration - A big part of being a developer is knowing how to work well and integrate in a team, regardless of how different opinions, backgrounds and beliefs may be.</p>
+      </td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
