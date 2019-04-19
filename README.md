@@ -44,6 +44,41 @@ The Teen code curriculum is designed to guide last year secondary school student
     <th>Topic</th>
     <th>Content</th>
   </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>HTML</td>
+      <td>Build a simple static profile web page</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>CSS/HTML</td>
+      <td>Include css properties to an HTML file</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>JavaScript</td>
+      <td>
+        <ul>
+          <li>
+            Write a JavaScript function that reverse a number. 
+            <ul>
+              <li>Example x = 32243;</li>
+              <li>Expected Output : 34223</li>
+            </ul>
+          </li>
+          <li>Write a JavaScript function that returns a passed string with letters in alphabetical order.
+            <ul>
+              <li>Example string : 'webmaster'</li>
+              <li>Expected Output : 'abeemrstw'</li>
+            </ul>
+          </li>
+          <li>Write a JavaScript function to create a Person object, and store in an array of students.</li>
+          <li>Write JavaScript event handlers for an HTML/css file</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 
