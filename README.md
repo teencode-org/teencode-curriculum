@@ -23,8 +23,7 @@ The Teen code curriculum is designed to guide last year secondary school student
 |------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1 | HTML | Build a simple static profile web page |
 | 2 | CSS/HTML | Include css properties to an HTML file |
-| 3 | JavaScript |
-- Write a JavaScript function that reverse a number.
+| 3 | JavaScript | - Write a JavaScript function that reverse a number.
 ```
 - Example x = 32243;
 - Expected Output : 34223
