@@ -2,7 +2,7 @@
 
 ## Content
 - [Introduction to programming]
-- [Introduction to web development](https://github.com/teencode-org/teencode-curriculum/tree/code-camp/HTML/Introduction%20to%20Web%20Development)
+- [Introduction to Web Development](https://github.com/teencode-org/teencode-curriculum/tree/code-camp/HTML/Introduction%20to%20Web%20Development)
 - [Introduction to HTML](https://github.com/teencode-org/teencode-curriculum/tree/code-camp/HTML/Introduction%20to%20HTML)
 - [HTML Basics](https://github.com/teencode-org/teencode-curriculum/tree/code-camp/HTML/HTML%20Basics)
 
