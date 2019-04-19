@@ -76,17 +76,11 @@ The Teen code curriculum is designed to guide last year secondary school student
   <tbody>
     <tr>
       <td>Output is next-to-flawless-- very little room for improvement in any details and shows careful thought and effort.</td>
-    </tr>
-    <tr>
       <td>Output shows effort and attention to detail, functions well, and is complete. There remain a few areas where it could communicate or function more efficiently. </td>
-    </tr>
-    <tr>
       <td>
         <p>Learner has some output to show but did not meet all requirements.</p>
         <p>Output is completed but there is much room for improvement. For example, the learner did not adhere to concepts previously learnt eg coding best practises, proper use of version control</p>
       </td>
-    </tr>
-    <tr>
       <td>Did not do. No output is provided</td>
     </tr>
   </tbody>
@@ -128,15 +122,8 @@ You are required to use HTML only for this
   <tbody>
     <tr>
       <td>HTML</td>
-    </tr>
-    <tr>
       <td>Failed to complete all static pages.</td>
-    </tr>
-    <tr>
-      <td>Completes all static pages.</td>
-    </tr>
-    <tr>
-      <td>Shows creativity with use of proper colours coordination, and pages are well designed; looking modern and attractive.</td>
+      <td>Completes all static pages.</td><td>Shows creativity with use of proper colours coordination, and pages are well designed; looking modern and attractive.</td>
     </tr>
   </tbody>
 </table>
@@ -163,14 +150,8 @@ You are required to use CSS and HTML for this
   <tbody>
     <tr>
       <td>CSS / HTML</td>
-    </tr>
-    <tr>
       <td>Failed to add at least 4 of the suggested CSS properties.</td>
-    </tr>
-    <tr>
-      <td>Successfully adds all suggested CSS design appropriately with corresponding HTML. </td>
-    </tr>
-    <tr>
+      <td>Successfully adds all suggested CSS design appropriately with corresponding HTML.</td>
       <td>Shows creativity with use of proper colours coordination, creates external link for css properties. Animates HTML design.</td>
     </tr>
   </tbody>
@@ -197,14 +178,8 @@ You are required to use JavaScript and JQuery for this
   <tbody>
     <tr>
       <td>JQuery/ JavaScript </td>
-    </tr>
-    <tr>
       <td>Failed to implement JavaScript functionalities. </td>
-    </tr>
-    <tr>
       <td>Successfully implements JS functionalities and use JQuery to listen for events appropriately.>Completes all static pages.</td>
-    </tr>
-    <tr>
       <td>Shows problem solving skills, with simplified JS solutions, code syntax is neat and well written.</td>
     </tr>
   </tbody>
